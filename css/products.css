@@ -1,0 +1,43 @@
+h1{
+color: blue;
+text-align: center;
+font-size: 80px;
+background-color: rgba(20, 20, 20, 0.904);
+line-height: 100px;
+text-shadow: 8px 8px 8px blue;
+font-weight: bolder;
+
+}
+
+h1:hover{
+    background-color: aqua;
+    color: aliceblue;
+}
+
+p{
+    font-style: italic;
+}
+
+img{
+width: 280px;
+height: 200px;
+border-radius: 30px;
+}
+
+a{
+
+    background-color: rgba(214, 21, 21, 0.904);
+    margin-right: 20px;
+    text-decoration: none;
+    border-radius: 12px;
+}
+
+a:hover{
+    background-color: aqua;
+    color: aliceblue;
+}
+
+
+
+
+
